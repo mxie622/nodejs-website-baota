@@ -16,7 +16,7 @@ Example Domain: http://xiexuan.com.cn
 
 Using baota can install the above by hands-on mouse operation
 ### Step:
-1. `{ git clone -b main https://github.com/mxie622/nodejs-website-baota.git }` 
+1. ` git clone -b main https://github.com/mxie622/nodejs-website-baota.git ` 
 2. Change the foldername from nodejs-website-baota to nodejs
 3. Use your username and password to modify **package.json , install.sh , start.sh , jdbc.js**
 4. Zip the project and upload to the server
@@ -24,4 +24,5 @@ Using baota can install the above by hands-on mouse operation
 6. After checking all details of your Node project, submit the project
 
 You can prepare your Mysql and replace mine at install.sql
+
 Welcome to message me if you have any good improvement on the project
