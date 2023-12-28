@@ -1,9 +1,9 @@
 #!/bin/bash
 
-echo "  >>---------- 开始 ----------"
+echo "  >>---------- launching ----------"
 
 cd /www/wwwroot/xiexuan/nodejs/
 npm start
 
 
-echo "  >>---------- 已启动 ----------"
+echo "  >>---------- started ----------"
