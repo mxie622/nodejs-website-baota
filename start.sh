@@ -2,8 +2,7 @@
 
 echo "  >>---------- 开始 ----------"
 
-#cd /home/nodejs/NodeTest/
-cd /Users/mikexie/nodejs/
+cd /www/wwwroot/xiexuan/nodejs/
 npm start
 
 

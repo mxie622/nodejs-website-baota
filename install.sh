@@ -6,7 +6,7 @@ echo "  >>---------- 开始安装 ----------"
 
 # rm -rf nodejs
 # mkdir nodejs
-cd /Users/mikexie/nodejs/
+cd /www/wwwroot/xiexuan/nodejs/
 
 echo "  >>---------- 开始执行mysql ---------- 无pw 直接回车 "
 
@@ -14,7 +14,7 @@ mysql -u root -p "
 drop database if exists node_cms;
 create database node_cms;
 use node_cms;
-source /Users/mikexie/nodejs/doc/install.sql"
+source /www/wwwroot/xiexuan/nodejs/doc/install.sql"
 
 echo "  >>---------- 执行mysql结束 ----------"
 
